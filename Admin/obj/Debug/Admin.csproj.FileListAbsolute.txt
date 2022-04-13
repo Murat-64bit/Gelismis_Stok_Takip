@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\Program\SuAritmaPanel\Admin\bin\Debug\Admin.exe.config
+C:\Users\user\Desktop\Program\SuAritmaPanel\Admin\bin\Debug\Admin.exe
+C:\Users\user\Desktop\Program\SuAritmaPanel\Admin\bin\Debug\Admin.pdb
+C:\Users\user\Desktop\Program\SuAritmaPanel\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Program\SuAritmaPanel\Admin\obj\Debug\Admin.Form1.resources
+C:\Users\user\Desktop\Program\SuAritmaPanel\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\user\Desktop\Program\SuAritmaPanel\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Program\SuAritmaPanel\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Program\SuAritmaPanel\Admin\obj\Debug\Admin.exe
+C:\Users\user\Desktop\Program\SuAritmaPanel\Admin\obj\Debug\Admin.pdb
+C:\Users\user\Desktop\Program\SuAritmaPanel\Admin\obj\Debug\Admin.frmGiris.resources
